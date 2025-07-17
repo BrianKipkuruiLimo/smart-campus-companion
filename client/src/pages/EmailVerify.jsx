@@ -9,3 +9,4 @@ const EmailVerify = () => {
 }
 
 export default EmailVerify
+
